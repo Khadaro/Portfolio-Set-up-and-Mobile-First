@@ -18,16 +18,10 @@ Build a portfolio page by implementing a [Figma](https://www.figma.com/file/l7Sq
 - CSS3
 - Linters
 
-
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 - A web browser (like Google Chrome, Opera...).
 - A code editor (like Atom, VScode...).
-
 
 ### Deployment
 
@@ -37,9 +31,9 @@ To run the project open the downloaded folder (after extraction) then run the "*
 
 👤 **Khadar Farah**
 
-- GitHub: [@ha-manel](https://github.com/khadaro)
-- Twitter: [@hamanel](https://twitter.com/aridman1_)
-- LinkedIn: [Manel Hammouche](https://www.linkedin.com/in/Khadar-Farah/)
+- GitHub: [@Khadaro](https://github.com/khadaro)
+- Twitter: [@aridmanl](https://twitter.com/aridman1_)
+- LinkedIn: [Khadar Farah](https://www.linkedin.com/in/Khadar-Farah/)
 
 ## 🤝 Contributing
 
