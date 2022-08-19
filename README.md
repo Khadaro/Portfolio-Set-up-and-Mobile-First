@@ -37,9 +37,9 @@ To run the project open the downloaded folder (after extraction) then run the "*
 
 👤 **Khadar Farah**
 
-- GitHub: [@ha-manel](https://github.com/khadaro)
-- Twitter: [@hamanel](https://twitter.com/aridman1_)
-- LinkedIn: [Manel Hammouche](https://www.linkedin.com/in/Khadar-Farah/)
+- GitHub: [@khadaro](https://github.com/khadaro)
+- Twitter: [@aridman1](https://twitter.com/aridman1_)
+- LinkedIn: [Khadar Farah](https://www.linkedin.com/in/Khadar-Farah/)
 
 ## 🤝 Contributing
 
