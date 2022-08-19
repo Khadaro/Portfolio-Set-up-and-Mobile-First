@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-set-up-and-mobile-first",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khadaro/Portfolio-Set-up-and-Mobile-First.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khadaro/Portfolio-Set-up-and-Mobile-First/issues"
+  },
+  "homepage": "https://github.com/Khadaro/Portfolio-Set-up-and-Mobile-First#readme",
+  "devDependencies": {
+    "hint": "^7.1.1"
+  }
+}
